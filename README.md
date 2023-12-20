@@ -1,5 +1,5 @@
 # Calculo-ReceitaMedica
-Código desenvolvido como um desafio em sala de aula.
+Desenvolvi este código como um desafio em sala de aula no primeiro semestre, aula de Algorítimos e Lógica de Programação.
 
 Desafio: Criar um programa que à partir da idade e peso do paciente calcule 
 a dosagem de um determinado medicamento e imprima a receita 
