@@ -1,6 +1,6 @@
 # Calculo-ReceitaMedica
 
----> Desenvolvi este código como um desafio em sala no 1º semestre do curso de ADS na FATEC de Mogi Mirim, aula de Algorítimos e Lógica de Programação.
+---> Desenvolvi este código em Linguagem C como um desafio em sala no 1º semestre do curso de ADS na FATEC de Mogi Mirim, aula de Algorítimos e Lógica de Programação.
 
 Desafio: Criar um programa que à partir da idade e peso do paciente calcule a dosagem de um determinado medicamento e imprima a receita informando quantas gotas do medicamento o paciente deve tomar por dose. Considere que o medicamento em questão possui 500mg por ml, e que cada ml corresponde a 20 gotas.
 
